@@ -1,3 +1,3 @@
 N=int(raw_input())
-for i in range(N):
+for j in range(N):
   print("Hello")
